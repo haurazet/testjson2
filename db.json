@@ -1,33 +1,27 @@
-{ "code": "0",
- "message":"success",
- "data": {
-	"promotionList": [
-		{
-			"promotionImage": "link_to_minio",
-			"seenByUser": false,
-			"promotionSubject": "Promo Ramadhan",
-			"codeVoucher": "1233233",
-			"createdDate": 1624935352040,
-			"startDate": 1624935352040,
-			"endDate": 1624935352040,
-			"promotionDescription": "Dapatkan promo properti expo dengan bunga rendah hanya 6,69% dan DP mulai 1 %, Harga mulai dari 130 jt an saja",
-			"location": "Seluruh Indonesia",
-			"language": "IDN",
-			"termsAndConditions": "1. Promo hanya berlaku bagi nasabah BTN\n2. Promo berlaku untuk nasabah dengan pembuatan rekening paling lambat 12 Februari 2021\n3. Silahkan tanya ke customer service kami untuk informasi lebih detil"
-		},
-		{
-			"promotionImage": "link_to_minio",
-			"seenByUser": false,
-			"promotionSubject": "Promo Ramadhan",
-			"codeVoucher": "1233233",
-			"createdDate": 1624935352040,
-			"startDate": 1624935352040,
-			"endDate": 1624935352040,
-			"promotionDescription": "Dapatkan promo properti expo dengan bunga rendah hanya 6,69% dan DP mulai 1 %, Harga mulai dari 130 jt an saja",
-			"location": "Seluruh Indonesia",
-			"language": "IDN",
-			"termsAndConditions": "1. Promo hanya berlaku bagi nasabah BTN\n2. Promo berlaku untuk nasabah dengan pembuatan rekening paling lambat 12 Februari 2021\n3. Silahkan tanya ke customer service kami untuk informasi lebih detil"
-		}
-	]
-}
-}
+
+{"widget": {
+    "debug": "on",
+    "window": {
+        "title": "Sample Konfabulator Widget",
+        "name": "main_window",
+        "width": 500,
+        "height": 500
+    },
+    "image": { 
+        "src": "Images/Sun.png",
+        "name": "sun1",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "style": "bold",
+        "name": "text1",
+        "hOffset": 250,
+        "vOffset": 100,
+        "alignment": "center",
+        "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
+    }
+}} 
