@@ -1,4 +1,6 @@
-{
+{ "code": 0,
+ "message":"success",
+ "data": {
 	"promotionList": [
 		{
 			"promotionImage": "link_to_minio",
@@ -27,4 +29,5 @@
 			"termsAndConditions": "1. Promo hanya berlaku bagi nasabah BTN\n2. Promo berlaku untuk nasabah dengan pembuatan rekening paling lambat 12 Februari 2021\n3. Silahkan tanya ke customer service kami untuk informasi lebih detil"
 		}
 	]
+}
 }
