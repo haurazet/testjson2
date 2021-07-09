@@ -5,22 +5,58 @@
   "data": {
   "promotionList": [
     {
-			"promotionImage": "link_to_minio",
+			"promotionImage": "https://media.suara.com/pictures/970x544/2021/02/23/22897-bank-btn.jpg",
 			"seenByUser": false,
-			"promotionTitle": "Promo Ramadhan",
-			"createdDate": 1624935352040,
-			"startDate": 1624935352040,
-			"endDate": 1624935352040,
+			"promotionTitle": "Promo Anniversary",
+			"createdDate": 1625820084,
+			"startDate": 1623228007000,
+			"endDate": 1625820019,
 			"notificationHistoryId": 1231
 		},
 		{
-			"promotionImage": "link_to_minio",
+			"promotionImage": "https://i2.wp.com/sobatpromo.com/wp-content/uploads/2020/04/Promo-Bayar-Tagihan-Bulanan-dengan-KARTU-DEBIT-BANK-BTN.png?fit=1440%2C575",
+			"seenByUser": true,
+			"promotionTitle": "Promo Kartu Kredit",
+			"createdDate": 1624935352040,
+			"startDate": 1623228007000,
+			"endDate": 1623660007000,
+			"notificationHistoryId": 1232
+		},
+		{
+			"promotionImage": "https://travelspromo.com/wp-content/uploads/2017/04/Promo-Citilink-Bank-BTN.jpg",
 			"seenByUser": false,
-			"promotionTitle": "Promo Ramadhan",
+			"promotionTitle": "Promo Liburan",
 			"createdDate": 1624935352040,
 			"startDate": 1624935352040,
 			"endDate": 1624935352040,
-			"notificationHistoryId": 1231
+			"notificationHistoryId": 1233
+		},
+		{
+			"promotionImage": "https://travelspromo.com/wp-content/uploads/2016/09/Promo-tiket-pesawat-kereta-tiketcom-debit-online-btn.jpg",
+			"seenByUser": false,
+			"promotionTitle": "Promo Tiket.com",
+			"createdDate": 1624935352040,
+			"startDate": 1624935352040,
+			"endDate": 1624935352040,
+			"notificationHistoryId": 1234
+		},
+		{
+			"promotionImage": "https://undian.info/wp-content/uploads/2020/08/banner-btn_04055_D.jpg",
+			"seenByUser": true,
+			"promotionTitle": "Promo Indigo",
+			"createdDate": 1624935352040,
+			"startDate": 1624935352040,
+			"endDate": 1624935352040,
+			"notificationHistoryId": 1235
+		},
+		{
+			"promotionImage": "https://1.bp.blogspot.com/-T61FQS0QoN4/WJls64qC5UI/AAAAAAAAIBg/j-HAAwIdTykCZVgUgUJY1moLxtLCQSqIwCLcB/s1600/voucher-btn-jakmall-67.jpg",
+			"seenByUser": true,
+			"promotionTitle": "Promo HUT BTN",
+			"createdDate": 1624935352040,
+			"startDate": 1624935352040,
+			"endDate": 1624935352040,
+			"notificationHistoryId": 1236
 		}
   ]
 }
